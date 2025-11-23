@@ -13,6 +13,7 @@ as my try, you need install additional package such as
 
 - python-request (use `sudo pacman -S python-requests --noconfirm`)
 - python-tqdm (`sudo pacman -S python-tqdm --noconfirm`)
+- python-kconfiglib (`sudo pacman -S python-kconfiglib --noconfirm`)
 - scons (`sudo pacman -S scons --noconfirm`)
 
 then after those 3 package installed we can run 
